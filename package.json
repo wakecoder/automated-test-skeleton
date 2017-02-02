@@ -1,0 +1,35 @@
+{
+  "name": "automated-test-skeleton",
+  "version": "1.0.0",
+  "description": "A small skeleton project that shows how to use Mocha, Chai and Mockery for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakecoder/automated-test-skeleton.git"
+  },
+  "keywords": [
+    "test",
+    "mocha",
+    "chai",
+    "mockery",
+    "automated",
+    "example",
+    "skeleton",
+    "project",
+    "template"
+  ],
+  "author": "wakecoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakecoder/automated-test-skeleton/issues"
+  },
+  "homepage": "https://github.com/wakecoder/automated-test-skeleton#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "mockery": "^2.0.0"
+  }
+}
